@@ -97,7 +97,7 @@
     </preface>
     <preamble>
       <formula name="enactingFormula" eId="preamble" GUID="76C8249D-6AB5-460F-9C79-DAAB3B30C50E">
-        <p><b>We the People</b> of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</p>
+        <p><b>We the People</b> <span class="preambleLead">of the United States,</span> in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</p>
       </formula>
     </preamble>
     <body>

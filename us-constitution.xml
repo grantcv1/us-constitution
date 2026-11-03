@@ -771,61 +771,61 @@
             </notes>
           </meta>
           <body>
-            <article eId="amd_I" GUID="7D44B107-D107-463F-B72B-EF6CF49545D5">
+            <hcontainer name="amendment" eId="amd_I" GUID="7D44B107-D107-463F-B72B-EF6CF49545D5">
               <num>Amendment I</num>
               <content>
                 <p>Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.</p>
               </content>
-            </article>
-            <article eId="amd_II" GUID="0C50198F-A632-4F00-84FF-C5B1EDAFFDC9">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_II" GUID="0C50198F-A632-4F00-84FF-C5B1EDAFFDC9">
               <num>Amendment II</num>
               <content>
                 <p>A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.</p>
               </content>
-            </article>
-            <article eId="amd_III" GUID="784CF6D5-79F3-4AF5-A435-E8F6703BB0A0">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_III" GUID="784CF6D5-79F3-4AF5-A435-E8F6703BB0A0">
               <num>Amendment III</num>
               <content>
                 <p>No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.</p>
               </content>
-            </article>
-            <article eId="amd_IV" GUID="35B1D450-0C03-49E9-85C5-8AB33D350371">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_IV" GUID="35B1D450-0C03-49E9-85C5-8AB33D350371">
               <num>Amendment IV</num>
               <content>
                 <p>The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.</p>
               </content>
-            </article>
-            <article eId="amd_V" GUID="654AF4D6-4DFA-4D81-BFF2-A7B88E3FE122">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_V" GUID="654AF4D6-4DFA-4D81-BFF2-A7B88E3FE122">
               <num>Amendment V</num>
               <content>
                 <p>No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.</p>
               </content>
-            </article>
-            <article eId="amd_VI" GUID="52A092BA-E6A1-4A81-B06D-268C02C16C4A">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_VI" GUID="52A092BA-E6A1-4A81-B06D-268C02C16C4A">
               <num>Amendment VI</num>
               <content>
                 <p>In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.</p>
               </content>
-            </article>
-            <article eId="amd_VII" GUID="BB35FC48-E6B2-4ACC-9B80-F735E3D862FB">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_VII" GUID="BB35FC48-E6B2-4ACC-9B80-F735E3D862FB">
               <num>Amendment VII</num>
               <content>
                 <p>In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.</p>
               </content>
-            </article>
-            <article eId="amd_VIII" GUID="50F462D0-3118-49BF-BB75-3B6EF4071B67">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_VIII" GUID="50F462D0-3118-49BF-BB75-3B6EF4071B67">
               <num>Amendment VIII</num>
               <content>
                 <p>Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.</p>
               </content>
-            </article>
-            <article eId="amd_IX" GUID="9923525E-B5D8-4096-87B4-3E66DA8F43A1">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_IX" GUID="9923525E-B5D8-4096-87B4-3E66DA8F43A1">
               <num>Amendment IX</num>
               <content>
                 <p>The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.</p>
               </content>
-            </article>
-            <article eId="amd_X" GUID="8648F6F0-0543-4E0E-BEEB-FC3642B46309">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_X" GUID="8648F6F0-0543-4E0E-BEEB-FC3642B46309">
               <num>Amendment X</num>
               <clause eId="amd_X__cl_1" GUID="E2F44A90-25AC-4D8F-8F0E-6C0DA0B806C7">
                 <content>
@@ -842,22 +842,22 @@
                   <p></p>
                 </content>
               </clause>
-            </article>
-            <article eId="amd_XI" GUID="DC1E6100-D772-4C91-B1E6-AF691DA912D0">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XI" GUID="DC1E6100-D772-4C91-B1E6-AF691DA912D0">
               <num>AMENDMENT XI</num>
               <subheading>Passed by Congress March 4, 1794. Ratified February 7, 1795.</subheading>
               <content>
                 <p>The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.</p>
               </content>
-            </article>
-            <article eId="amd_XII" GUID="7C4541E1-C594-4933-AA53-FBB9B8004128">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XII" GUID="7C4541E1-C594-4933-AA53-FBB9B8004128">
               <num>AMENDMENT XII</num>
               <subheading>Passed by Congress December 9, 1803. Ratified June 15, 1804.</subheading>
               <content>
                 <p>The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate; -- the President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; -- The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. [And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in the case of the death or other constitutional disability of the President. --]* The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.</p>
               </content>
-            </article>
-            <article eId="amd_XIII" GUID="266B1756-5AC1-4712-8FC6-A7B4B67277B2">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XIII" GUID="266B1756-5AC1-4712-8FC6-A7B4B67277B2">
               <num>AMENDMENT XIII</num>
               <subheading>Passed by Congress January 31, 1865. Ratified December 6, 1865.</subheading>
               <section eId="amd_XIII__sec_1" GUID="B7C925C3-43BE-422B-8A91-6C5DC6E4DDF7">
@@ -872,8 +872,8 @@
                   <p>Congress shall have power to enforce this article by appropriate legislation.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XIV" GUID="CA4C89C1-30C1-48B9-88FD-FA503A44C209">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XIV" GUID="CA4C89C1-30C1-48B9-88FD-FA503A44C209">
               <num>AMENDMENT XIV</num>
               <subheading>Passed by Congress June 13, 1866. Ratified July 9, 1868.</subheading>
               <section eId="amd_XIV__sec_1" GUID="AADA5EF9-432E-41C8-ACE6-941809BC6B1F">
@@ -906,8 +906,8 @@
                   <p>The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XV" GUID="3A32AC3C-9A11-4928-BE48-3121639B9A0B">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XV" GUID="3A32AC3C-9A11-4928-BE48-3121639B9A0B">
               <num>AMENDMENT XV</num>
               <subheading>Passed by Congress February 26, 1869. Ratified February 3, 1870. </subheading>
               <section eId="amd_XV__sec_1" GUID="9E3098E1-C866-46A6-B4BE-2616AA9E648F">
@@ -922,15 +922,15 @@
                   <p>The Congress shall have power to enforce this article by appropriate legislation.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XVI" GUID="CB003232-6069-4949-A242-0814214EFDA2">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XVI" GUID="CB003232-6069-4949-A242-0814214EFDA2">
               <num>AMENDMENT XVI</num>
               <subheading>Passed by Congress July 2, 1909. Ratified February 3, 1913.</subheading>
               <content>
                 <p>The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.</p>
               </content>
-            </article>
-            <article eId="amd_XVII" GUID="E5A9277F-C15D-4CCB-90D4-234CBB04B008">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XVII" GUID="E5A9277F-C15D-4CCB-90D4-234CBB04B008">
               <num>AMENDMENT XVII</num>
               <subheading>Passed by Congress May 13, 1912. Ratified April 8, 1913.</subheading>
               <clause eId="amd_XVII__cl_1" GUID="BA93A721-DEB8-421C-B868-62C6F1A7A45F">
@@ -948,8 +948,8 @@
                   <p>This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.</p>
                 </content>
               </clause>
-            </article>
-            <article eId="amd_XVIII" GUID="A1E37B18-3F4D-41F7-9CE0-B98147D34ECD">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XVIII" GUID="A1E37B18-3F4D-41F7-9CE0-B98147D34ECD">
               <num>AMENDMENT XVIII</num>
               <subheading>Passed by Congress December 18, 1917. Ratified January 16, 1919. Repealed by amendment 21. </subheading>
               <section eId="amd_XVIII__sec_1" GUID="485359A6-F790-4802-8B8E-B35A1AFD5758">
@@ -970,8 +970,8 @@
                   <p>This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XIX" GUID="28066805-E080-4E9B-99D1-BDA3A4BF2304">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XIX" GUID="28066805-E080-4E9B-99D1-BDA3A4BF2304">
               <num>AMENDMENT XIX</num>
               <subheading>Passed by Congress June 4, 1919. Ratified August 18, 1920.</subheading>
               <clause eId="amd_XIX__cl_1" GUID="F20D40F8-D546-424B-955B-474EACCFB3C4">
@@ -984,8 +984,8 @@
                   <p>Congress shall have power to enforce this article by appropriate legislation.</p>
                 </content>
               </clause>
-            </article>
-            <article eId="amd_XX" GUID="4635E56C-90BC-4AC6-9332-DBAAAB593945">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XX" GUID="4635E56C-90BC-4AC6-9332-DBAAAB593945">
               <num>AMENDMENT XX</num>
               <subheading>Passed by Congress March 2, 1932. Ratified January 23, 1933.</subheading>
               <section eId="amd_XX__sec_1" GUID="FF8C821C-70D6-4699-BE04-9B75D3B57B8B">
@@ -1024,8 +1024,8 @@
                   <p>This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XXI" GUID="705F9FFB-E1C5-4EB9-8BFC-5B15737E5BAF">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XXI" GUID="705F9FFB-E1C5-4EB9-8BFC-5B15737E5BAF">
               <num>AMENDMENT XXI</num>
               <subheading>Passed by Congress February 20, 1933. Ratified December 5, 1933.</subheading>
               <section eId="amd_XXI__sec_1" GUID="8B645B6C-F420-449B-B795-360F834BECAC">
@@ -1046,8 +1046,8 @@
                   <p>This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XXII" GUID="7AC5F4DA-EAC6-4658-8350-02062760E4C8">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XXII" GUID="7AC5F4DA-EAC6-4658-8350-02062760E4C8">
               <num>AMENDMENT XXII</num>
               <subheading>Passed by Congress March 21, 1947. Ratified February 27, 1951.</subheading>
               <section eId="amd_XXII__sec_1" GUID="95349560-4615-4F79-B704-10A7E8620130">
@@ -1062,8 +1062,8 @@
                   <p>This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XXIII" GUID="D2A0946E-608C-4172-B1F8-B3848DDB04AA">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XXIII" GUID="D2A0946E-608C-4172-B1F8-B3848DDB04AA">
               <num>AMENDMENT XXIII</num>
               <subheading>Passed by Congress June 16, 1960. Ratified March 29, 1961.</subheading>
               <section eId="amd_XXIII__sec_1" GUID="DD55D0FA-2401-4A9D-9FB2-C445AD9FEDD8">
@@ -1085,8 +1085,8 @@
                   <p>The Congress shall have power to enforce this article by appropriate legislation.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XXIV" GUID="BCB03B47-CC7E-47FA-86A7-C13E4DDB1423">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XXIV" GUID="BCB03B47-CC7E-47FA-86A7-C13E4DDB1423">
               <num>AMENDMENT XXIV</num>
               <subheading>Passed by Congress August 27, 1962. Ratified January 23, 1964.</subheading>
               <section eId="amd_XXIV__sec_1" GUID="2B22A214-835A-42DD-908F-46543F3D0961">
@@ -1101,8 +1101,8 @@
                   <p>The Congress shall have power to enforce this article by appropriate legislation.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XXV" GUID="9ECE9475-72D4-4B3C-A8E5-8556F03627C0">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XXV" GUID="9ECE9475-72D4-4B3C-A8E5-8556F03627C0">
               <num>AMENDMENT XXV</num>
               <subheading>Passed by Congress July 6, 1965. Ratified February 10, 1967.</subheading>
               <section eId="amd_XXV__sec_1" GUID="78156415-3E79-40E4-B1CD-0300878197C8">
@@ -1136,8 +1136,8 @@
                   </content>
                 </clause>
               </section>
-            </article>
-            <article eId="amd_XXVI" GUID="6AE1488E-9AC9-4111-A634-D6D7140A511B">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XXVI" GUID="6AE1488E-9AC9-4111-A634-D6D7140A511B">
               <num>AMENDMENT XXVI</num>
               <subheading>Passed by Congress March 23, 1971. Ratified July 1, 1971.</subheading>
               <section eId="amd_XXVI__sec_1" GUID="62D54B54-0B43-43AE-98C3-3C93D308D354">
@@ -1152,14 +1152,14 @@
                   <p>The Congress shall have power to enforce this article by appropriate legislation.</p>
                 </content>
               </section>
-            </article>
-            <article eId="amd_XXVII" GUID="D2B27F44-9AAB-4896-AC40-9BB7C88263C4">
+            </hcontainer>
+            <hcontainer name="amendment" eId="amd_XXVII" GUID="D2B27F44-9AAB-4896-AC40-9BB7C88263C4">
               <num>AMENDMENT XXVII</num>
               <subheading>Originally proposed Sept. 25, 1789. Ratified May 7, 1992.</subheading>
               <content>
                 <p>No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened.</p>
               </content>
-            </article>
+            </hcontainer>
           </body>
         </act>
       </attachment>

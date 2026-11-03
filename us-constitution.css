@@ -18,7 +18,7 @@ formula p{margin:0;text-align:justify;text-indent:0}
 span[class~="preambleLead"]{font-size:1.3em}
 formula b{display:inline;font:700 6.3cqw/0 "Engrosser",serif;margin-right:.14em;letter-spacing:.01em;color:#2e1c10}
 body{display:flow-root;padding:0 4.5cqw 1cqw;box-shadow:inset 3cqw 0 4cqw -3cqw rgba(92,60,25,.35),inset -3cqw 0 4cqw -3cqw rgba(92,60,25,.35)}
-article,section,clause,content,container{display:block}
+article,hcontainer,section,clause,content,container{display:block}
 article>num{display:block;padding:2cqw 0 .6cqw;margin:0;text-align:center;font:700 5.6cqw/1 "Engrosser",serif;color:#2e1c10}
 section>num{display:inline;margin:0 .9em 0 0;font:inherit}
 section>content:first-of-type,section>content:first-of-type>p,section>clause:first-of-type,section>clause:first-of-type>content,section>clause:first-of-type>content>p{display:inline}
@@ -139,8 +139,8 @@ attachment{display:block;container-type:inline-size;width:min(100%,1120px);margi
 attachment>heading{display:block;font:700 6cqw/1.1 "Engrosser",serif;text-align:center;margin-bottom:2cqw;color:#2e1c10}
 attachment act{all:unset;display:block;font:inherit}
 attachment body{all:unset;display:block}
-attachment article{margin-top:2.4cqw}
-attachment article>num{font:700 2.6cqw/1.2 "Printer",Georgia,serif;text-align:left;margin:0;letter-spacing:.04em;color:#2b241c}
+attachment hcontainer{margin-top:2.4cqw}
+attachment hcontainer>num{display:block;font:700 2.6cqw/1.2 "Printer",Georgia,serif;text-align:left;margin:0;letter-spacing:.04em;color:#2b241c}
 subheading{display:block;font-style:italic;font-size:.88em;color:#5c5042;margin-bottom:.4em}
 attachment section>num{display:block;font-style:italic;margin:.5em 0 0}
 attachment section>content,attachment section>content>p,attachment section>clause,attachment section>clause>content,attachment section>clause>content>p{display:block!important}

@@ -30,3 +30,13 @@ To view the document locally, keep the XML and CSS files in the same folder and 
 ## Fonts
 
 The stylesheet embeds Pinyon Script, UnifrakturCook and IM Fell English, all licensed under the [SIL Open Font License](https://openfontlicense.org/). The script and blackletter fonts approximate the original hand; they do not reproduce it.
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** The National Archives transcriptions and notes. Believed to be in the public domain. Details are under Sources above.
+- **Images:** Taken from a National Archives scan.
+- **Fonts:** Pinyon Script, UnifrakturCook and IM Fell English, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
